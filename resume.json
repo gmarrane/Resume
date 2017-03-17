@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Guillaume MARRANE",
+    "label": "Web developer",
+    "picture": "",
+    "email": "guillaume.marrane@gmail.com",
+    "phone": "+33 6.32.84.81.70",
+    "website": "",
+    "summary": "Coming from a university science course, mainly in the biological and pharmaceutical field, I realize a conversion in the field of Web development. I would like to do an internship in order to consolidate my knowledge and improve my knowledge.",
+    "location": {
+      "address": "19 avenue du Dr Maurice Grynfogel",
+      "postalCode": "31100",
+      "city": "Toulouse",
+      "countryCode": "FR",
+      "region": "Midi-Pyrénnées"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Oncopole Toulouse",
+      "position": "Clinical Research Associate",
+      "website": "http://www.oncopole-toulouse.com/",
+      "startDate": "2014-12-01",
+      "endDate": "2015-08-01",
+      "summary": "Management of 3 multicenter studies of oncology, submission of amendments to the authorities, setting up visits, monitoring, management of investigative filing cabinets and logistics of blood samples.",
+      "highlights": []
+    },
+    {
+      "company": "Brest Hospital",
+      "position": "Clinical Research Associate",
+      "website": "https://www.chu-brest.fr/fr",
+      "startDate": "2011-11-01",
+      "endDate": "2014-12-01",
+      "summary": "Management of a dozen multicentric studies from conception to closure, monitoring of pharmacovigilance of trials, support to project managers, drafting of regulatory documents, management of studies",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "INP/ENSEEIHT",
+      "area": "Web developement",
+      "studyType": "",
+      "startDate": "2016-10-27",
+      "endDate": "2017-03-31",
+      "gpa": "",
+      "courses": [
+        "Basic SQL/NoSQL",
+        "Basic JavaScript ",
+        "HTML/CSS Introduction",
+        "React/AngularJS Introduction",
+        "Basic Python",
+        "Django Introduction",
+        "Basic Node JS "
+      ]
+    },
+    {
+      "institution": "University of Medicine of Montpellier",
+      "area": "Clinical research",
+      "studyType": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
+      "gpa": "",
+      "courses": [
+        "Study Management"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "AngularJS",
+        "NodeJS",
+        "Python",
+        "Django"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Francais",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Profesional"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Swimming",
+        "Tennis"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Cinema",
+      "keywords": []
+    },
+    {
+      "name": "Traveling",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

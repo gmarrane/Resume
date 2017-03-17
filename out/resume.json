@@ -1,0 +1,138 @@
+{
+  "name": "Guillaume MARRANE",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Toulouse",
+    "region": "Midi-Pyrénnées",
+    "country": "FR",
+    "code": "31100",
+    "address": "19 avenue du Dr Maurice Grynfogel"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Clinical Research Associate",
+        "employer": "Oncopole Toulouse",
+        "summary": "Management of 3 multicenter studies of oncology, submission of amendments to the authorities, setting up visits, monitoring, management of investigative filing cabinets and logistics of blood samples.",
+        "start": "2014-12-01",
+        "end": "2015-08-01",
+        "url": "http://www.oncopole-toulouse.com/",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "position": "Clinical Research Associate",
+        "employer": "Brest Hospital",
+        "summary": "Management of a dozen multicentric studies from conception to closure, monitoring of pharmacovigilance of trials, support to project managers, drafting of regulatory documents, management of studies",
+        "start": "2011-11-01",
+        "end": "2014-12-01",
+        "url": "https://www.chu-brest.fr/fr",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "INP/ENSEEIHT",
+        "start": "2016-10-27",
+        "end": "2017-03-31",
+        "grade": "",
+        "curriculum": [
+          "Basic SQL/NoSQL",
+          "Basic JavaScript ",
+          "HTML/CSS Introduction",
+          "React/AngularJS Introduction",
+          "Basic Python",
+          "Django Introduction",
+          "Basic Node JS "
+        ],
+        "summary": "",
+        "area": "Web developement",
+        "studyType": ""
+      },
+      {
+        "institution": "University of Medicine of Montpellier",
+        "start": "2014-09-01",
+        "end": "2015-09-01",
+        "grade": "",
+        "curriculum": [
+          "Study Management"
+        ],
+        "summary": "",
+        "area": "Clinical research",
+        "studyType": ""
+      }
+    ]
+  },
+  "service": {},
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "React",
+          "AngularJS",
+          "NodeJS",
+          "Python",
+          "Django"
+        ]
+      }
+    ]
+  },
+  "writing": [],
+  "social": [
+    {
+      "label": "",
+      "network": "",
+      "url": "",
+      "user": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Swimming",
+        "Tennis"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": []
+    },
+    {
+      "name": "Cinema",
+      "keywords": []
+    },
+    {
+      "name": "Traveling",
+      "keywords": []
+    }
+  ],
+  "testimonials": 0,
+  "languages": [
+    {
+      "language": "Francais",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Profesional"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ]
+}
